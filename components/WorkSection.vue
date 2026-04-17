@@ -15,7 +15,7 @@ const works = [
   <section id="work" class="work">
     <div class="container">
       <header class="work__head reveal">
-        <span class="eyebrow">selected work — <span class="red">(2024—2026)</span></span>
+        <span class="eyebrow">selected work — <span class="red">(2025—2026)</span></span>
         <h2 class="display work__title">
           palco, <span class="italic red">câmera</span><br />
           e <span class="italic">performance</span>.
