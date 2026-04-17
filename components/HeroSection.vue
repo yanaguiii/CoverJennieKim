@@ -41,7 +41,7 @@ function scrollTo(id: string) {
 
     <div class="container hero__content">
       <div class="hero__top">
-        <span class="eyebrow"><a href="https://www.instagram.com/coverjenniekim" target="_blank" rel="noopener">@coverjenniekim</a> · cover tributo · 2025</span>
+        <span class="eyebrow"><a href="https://www.instagram.com/coverjenniekim" target="_blank" rel="noopener">@coverjenniekim</a><span class="eyebrow__extra"> · cover tributo · 2025</span></span>
         <button @click="scrollTo('contact')" class="eyebrow red">● now booking</button>
       </div>
 
