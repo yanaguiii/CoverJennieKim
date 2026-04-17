@@ -4,7 +4,7 @@ const props = defineProps<{
   reverse?: boolean
 }>()
 
-const text = props.text ?? 'like jennie · mantra · you & me · dracula · zen · seoul city · extraL'
+const text = props.text ?? 'like jennie · mantra · you & me · love hangover · zen · extraL'
 </script>
 
 <template>
