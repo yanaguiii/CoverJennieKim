@@ -26,6 +26,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
+  cursor: default;
+}
+
+input,
+textarea,
+[contenteditable="true"] {
+  cursor: text;
 }
 
 html.lenis {
