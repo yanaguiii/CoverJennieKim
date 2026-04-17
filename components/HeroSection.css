@@ -139,13 +139,13 @@
   .hero { padding: 80px 0 50px; align-items: center; }
   .hero__portrait {
     width: 90vw;
-    inset: 15% 0 0 0;
+    inset: 10% 0 0 0;
     margin: auto;
     opacity: 0.7;
   }
   .hero__content { gap: 30px; align-items: center; width: 100%; }
-  .hero__top { justify-content: center; width: 100%; padding-top: 17px; }
-  .hero__top .eyebrow { padding-top: 30px }
+  .hero__top { justify-content: center; width: 100%; padding-top: 10px; }
+  .hero__top .eyebrow { margin-top: -15% }
   .hero__top .eyebrow.red { display: none; }
   .hero__top .eyebrow__extra { display: none; }
   .hero__title {
