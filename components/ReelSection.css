@@ -66,3 +66,8 @@
   from { transform: translateX(0); }
   to { transform: translateX(-50%); }
 }
+@media (max-width: 720px) {
+  .reel { padding: 70px 0; }
+  .reel__head { margin-bottom: 36px; }
+  .reel__ticker { gap: 40px; bottom: 12px; font-size: clamp(16px, 4.5vw, 24px); }
+}

@@ -4,13 +4,11 @@
       <div class="reveal">
         <span class="eyebrow">words to live by</span>
         <blockquote class="display quote__text">
-          <span>“</span>
-          <span>I lived my 20's with passion and <em class="italic red">love.</em></span>
+          <span>“I lived my 20's with passion and <em class="italic red">love.</em></span>
           <span class="br" aria-hidden="true"></span>
           <span class="italic">Now, </span>
           <span>I just can't wait for this new chapter</span>
-          <span>of mine to open.</span>
-          <span>”</span>
+          <span>of mine to open.”</span>
         </blockquote>
         <p class="quote__by">— jennie · 2026</p>
       </div>

@@ -90,3 +90,10 @@
   .card--small { grid-column: span 1; }
   .card--tall { grid-column: span 1; }
 }
+@media (max-width: 600px) {
+  .work { padding: 80px 0 70px; }
+  .work__head { margin-bottom: 48px; gap: 14px; }
+  .work__grid { grid-template-columns: 1fr; gap: 24px; }
+  .card--wide, .card--tall, .card--small { grid-column: span 1; }
+  .card--tall .card__media { aspect-ratio: 4 / 3; }
+}
