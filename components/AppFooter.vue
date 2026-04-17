@@ -13,7 +13,7 @@ const year = new Date().getFullYear()
       <div class="footer__grid">
         <div class="footer__col">
           <p class="eyebrow">social</p>
-          <a href="https://www.instagram.com/coverjenniekim" target="_blank">Instagram</a>
+          <a href="https://www.instagram.com/coverjenniekim" target="_blank" rel="noopener noreferrer">Instagram</a>
           <a href="https://wa.me/5521966997227?text=Oi%20Julia!%20Quero%20falar%20sobre%20um%20evento." target="_blank" rel="noopener">WhatsApp</a>
         </div>
         <div class="footer__col">
