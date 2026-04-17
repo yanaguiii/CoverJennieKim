@@ -47,9 +47,9 @@ function scrollTo(id: string) {
 
       <h1 class="hero__title display">
         <span class="line">i am</span>
-        <span class="line italic red">julia</span>
+        <span class="line italic red script">Julia</span>
         <span class="line">as</span>
-        <span class="line italic">jennie.</span>
+        <span class="line italic script">Jennie.</span>
       </h1>
 
       <div class="hero__bottom">
