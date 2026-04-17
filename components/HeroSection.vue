@@ -58,10 +58,6 @@ function scrollTo(id: string) {
           Uma homenagem ao universo de <strong>Jennie Kim</strong> — da
           estreia com <strong>BLACKPINK</strong> à era solo.
         </p>
-        <button class="hero__scroll" @click="scrollTo('work')">
-          <span>scroll</span>
-          <svg width="12" height="48" viewBox="0 0 12 48"><path d="M6 0v46m-4-4l4 4 4-4" stroke="currentColor" fill="none" stroke-width="1" /></svg>
-        </button>
       </div>
     </div>
   </section>
