@@ -139,7 +139,7 @@
   .hero { padding: 80px 0 50px; align-items: center; }
   .hero__portrait {
     width: 90vw;
-    inset: 0;
+    inset: 15% 0 0 0;
     margin: auto;
     opacity: 0.7;
   }
