@@ -5,7 +5,7 @@
     <WorkSection />
     <QuoteSection />
     <StorySection />
-    <MarqueeBar text='like jennie · mantra · you & me · dracula · zen · seoul city · extraL' reverse />
+    <MarqueeBar/>
     <ReelSection />
   </main>
 </template>
