@@ -3,7 +3,7 @@
   background: var(--c-bg);
 }
 .quote__text {
-  font-size: clamp(40px, 7.5vw, 140px);
+  font-size: clamp(30px, 6vw, 100px);
   line-height: 1;
   display: flex;
   flex-wrap: wrap;

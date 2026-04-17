@@ -10,7 +10,7 @@
   gap: 80px;
 }
 .footer__huge {
-  font-size: clamp(80px, 18vw, 260px);
+  font-size: clamp(70px, 12vw, 220px);
   line-height: 0.88;
   display: flex;
   flex-wrap: wrap;
