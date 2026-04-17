@@ -42,7 +42,7 @@ const works = [
             </template>
             <div v-else class="card__placeholder">
               <span class="display italic">{{ w.title }}</span>
-              <span class="eyebrow">inserir mídia</span>
+              <span class="eyebrow">mídia</span>
             </div>
           </div>
           <div class="card__meta">

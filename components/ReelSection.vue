@@ -23,7 +23,7 @@ const videoSrc: string | null = null
               <circle cx="12" cy="12" r="11" stroke="currentColor" stroke-width="1" />
               <path d="M10 8l6 4-6 4V8z" fill="currentColor" />
             </svg>
-            <span class="eyebrow">adicione seu reel em /public/reel.mp4</span>
+            <span class="eyebrow">reels</span>
           </div>
         </template>
         <div class="reel__overlay" aria-hidden="true" />
