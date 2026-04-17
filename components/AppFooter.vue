@@ -24,7 +24,7 @@ const year = new Date().getFullYear()
 
       <div class="footer__bottom">
         <a href="https://www.instagram.com/coverjenniekim" target="_blank" rel="noopener">© {{ year }} @coverjenniekim · cover tributo</a>
-        <span>sem afiliação oficial com YG / BLACKPINK / JENNIE</span>
+        <span>sem afiliação oficial com YG / BLACKPINK / JENNIE / ODD ATELIER (OA)</span>
       </div>
     </div>
   </footer>

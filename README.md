@@ -2,7 +2,7 @@
 
 Site pessoal da **Julia**, cover tributo da **Jennie (BLACKPINK)**. Um portfólio digital com apresentação, trabalhos em vídeo/foto, linha do tempo da trajetória no mundo cover (da descoberta do BLACKPINK à era solo da Jennie) e canais de contato para booking.
 
-> Projeto de fã, sem afiliação oficial com YG Entertainment, BLACKPINK ou Jennie Kim.
+> Projeto de fã, sem afiliação oficial com YG Entertainment, BLACKPINK, Jennie Kim ou ODD ATELIER (OA).
 
 ---
 
@@ -177,4 +177,4 @@ npm run generate
 
 ## Licença
 
-Código do site: uso pessoal/educacional. Todas as marcas, imagens, músicas e referências a BLACKPINK, Jennie Kim e YG Entertainment pertencem aos seus respectivos detentores.
+Código do site: uso pessoal/educacional. Todas as marcas, imagens, músicas e referências a BLACKPINK, Jennie Kim, YG Entertainment e ODD ATELIER (OA) pertencem aos seus respectivos detentores.
